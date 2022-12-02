@@ -51,12 +51,12 @@ bestskill=input()
 print( bestskill + " ... that's good. My best skill is having tea")
 old = int(input("how old are you ? [Number]"))
 year = 2022 - old
-ms3 = "so you were born in "
+ms3 = " Oh !, so you were born in "
 print(ms3 + str(year))
 fav = input("I like english, what about you ?")
-ms4 = "Why do you like "
-ms5 = " ?"
-ms6 = input (ms4 + fav + ms5)
+ms4 = "Why do you like it "
+ms5 = "?"
+ms6 = input (ms4 + ms5)
 print ("I can sure about that")
 ms7 = (input(" What do you think about this tester ?"))
 print("Thank for your repl !")
