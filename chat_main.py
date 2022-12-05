@@ -49,11 +49,11 @@ if guess != number:
 print("That was a fun game! BTW what is your best skill?")
 bestskill=input()
 print( bestskill + " ... that's good. My best skill is having tea")
-old = int(input("how old are you ? [Number]"))
+old = int(input("So ..., how old are you ? [Number]"))
 year = 2022 - old
 ms3 = " Oh !, so you were born in "
 print(ms3 + str(year))
-fav = input("I like english, what about you ?")
+fav = input("Another question ... , I like english, what about you ?")
 ms4 = "Why do you like it "
 ms5 = "?"
 ms6 = input (ms4 + ms5)
