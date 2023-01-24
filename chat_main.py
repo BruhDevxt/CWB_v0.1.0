@@ -57,7 +57,7 @@ fav = input("Another question ... , I like english, what about you ?")
 ms4 = "Why do you like it "
 ms5 = "?"
 ms6 = input (ms4 + ms5)
-print ("I can sure about that")
+print ("Hm ..., Okay, whatever you think.")
 ms7 = (input(" What do you think about this tester ?"))
 print("Thank for your repl !")
 #Just testing it all
